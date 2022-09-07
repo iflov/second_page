@@ -292,3 +292,12 @@ article.card main .carousel ul li img{
 .login-div{
     display: flex;
 }
+
+#clock{
+    color: green;
+}
+
+#quote{
+    color:white;
+    border: 1px solid red;
+}
